@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\bin\Debug\RebateForm.exe.config
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\bin\Debug\RebateForm.exe
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\bin\Debug\RebateForm.pdb
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\obj\Debug\RebateForm.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\obj\Debug\RebateForm.Form1.resources
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\obj\Debug\RebateForm.Properties.Resources.resources
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\obj\Debug\RebateForm.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\obj\Debug\RebateForm.exe
+\\mac\home\documents\visual studio 2017\Projects\RebateForm\RebateForm\obj\Debug\RebateForm.pdb

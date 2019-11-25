@@ -1,0 +1,11 @@
+First Name	Middle Initials	Last Name	Address 1	Address 2	City	State	Zip Code	Gender	Phone	Email	Purchased	Date	Start Time	End Time	Backspace Count
+Aaaaaaaaaa1	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:45:50	20:46:50	2	
+Aaaaaaaaaa2	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:46:51	20:46:54	1	
+Aaaaaaaaaa3	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:46:55	20:46:58	1	
+Aaaaaaaaaa4	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:46:59	20:47:01	1	
+Aaaaaaaaaa5	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:47:02	20:47:05	1	
+Aaaaaaaaaa6	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:47:06	20:47:10	1	
+Aaaaaaaaaa7	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:47:10	20:47:15	1	
+Aaaaaaaaaa8	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:47:16	20:47:20	1	
+Aaaaaaaaaa9	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:47:22	20:47:25	1	
+Aaaaaaaaaa10	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	02-26-2019	20:47:26	20:47:30	1	

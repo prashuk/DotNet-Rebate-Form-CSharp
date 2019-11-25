@@ -1,0 +1,10 @@
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\bin\Release\TextSearch.exe.config
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\bin\Release\TextSearch.exe
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\bin\Release\TextSearch.pdb
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\obj\Release\TextSearch.csprojAssemblyReference.cache
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\obj\Release\TextSearch.Form1.resources
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\obj\Release\TextSearch.Properties.Resources.resources
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\obj\Release\TextSearch.csproj.GenerateResource.cache
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\obj\Release\TextSearch.csproj.CoreCompileInputs.cache
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\obj\Release\TextSearch.exe
+C:\Users\pxa172730\Downloads\TextSearch\TextSearch\obj\Release\TextSearch.pdb
